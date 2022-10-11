@@ -1,0 +1,68 @@
+.weather-app {
+    border: 5px solid #64676a;
+    padding: 15px;
+    margin: 30px auto;
+    margin-bottom: 0;
+    max-width: 1100px;
+  }
+  .local {
+    font-size: 20px;
+    opacity: 0.6;
+  }
+  #city {
+    font-size: 48px;
+    font-weight: bold;
+  }
+  form {
+    opacity: 0.6;
+    font-size: 20px;
+    text-align: center;
+    padding: 30px;
+  }
+  #my-location {
+    opacity: 0.8;
+    font-size: 17px;
+  }
+  .weather {
+    text-align: center;
+  }
+  #current-icon {
+    opacity: 0.6;
+  }
+  #current-weather {
+    font-size: 24px;
+    font-weight: bold;
+    opacity: 0.6;
+    text-align: center;
+  }
+  #current-temp {
+    font-size: 130px;
+    opacity: 0.6;
+    line-height: 0.75;
+    text-align: right;
+    padding-top: 9px;
+  }
+  .col-2 {
+    padding: 0;
+  }
+  .units {
+    font-size: 42px;
+    opacity: 0.6;
+  }
+  .conditions {
+    opacity: 0.6;
+  }
+  .future {
+    text-align: center;
+  }
+  .col {
+    opacity: 0.6;
+  }
+  .high {
+    font-weight: bold;
+  }
+  .source-line {
+    text-align: center;
+    padding: 10px;
+    opacity: 0.7;
+  }
